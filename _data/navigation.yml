@@ -1,0 +1,14 @@
+# Site navigation links
+
+- title: Seminar
+  url: /
+- title: Publications
+  url: /publications/
+- title: Courses
+  url: /courses/
+- title: Tags
+  url: /tags/
+- title: <i class="fas fa-user-graduate"></i>
+  url: /people/
+- title: <i class="fas fa-search"></i>
+  url: /search/

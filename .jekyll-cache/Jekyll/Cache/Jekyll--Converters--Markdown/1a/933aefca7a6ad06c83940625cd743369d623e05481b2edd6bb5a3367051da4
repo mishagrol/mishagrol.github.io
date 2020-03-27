@@ -1,0 +1,640 @@
+I"/d
+<div class="person-row">
+  <div id="ioseledets" class="person-profile">
+
+  <img src="/assets/pictures/ioseledets.jpg" class="author-avatar u-photo" alt="Ivan Oseledets" />
+    
+  <div class="author-info">
+    <div class="author-name">
+      <span class="p-name"><a href="http://localhost:4000/people/#ioseledets">Ivan Oseledets</a>
+      <hr style=" border: 0; height: 0; border-top: 1px solid rgba(0, 0, 0, 0.1); border-bottom: 1px solid rgba(255, 255, 255, 0.3);" /></span>
+      <span>Full professor<br /></span>
+      <span>Skoltech</span>
+    </div>
+  </div><ul class="author-links"><li class="author-link">
+        <a class="u-url" rel="me" href="mailto:i.oseledets@skoltech.ru"><i class="fas fa-envelope fa-lg" title="Mail"></i></a>
+      </li><li class="author-link">
+        <a class="u-url" rel="me" href="https://scholar.google.com/citations?user=5kMqBQEAAAAJ&amp;hl=en"><i class="ai ai-google-scholar-square fa-lg" title="Google Scholar"></i></a>
+      </li><li class="author-link">
+        <a class="u-url" rel="me" href="https://twitter.com/oseledetsivan"><i class="fab fa-twitter fa-lg" title="Twitter"></i></a>
+      </li></ul></div>
+  <div class="person-list">
+    
+    
+    
+    
+    <h3>Publications</h3>
+    <p><a href="/publications/sad_points/">Empirical study of extreme overfitting points of neural networks</a></p>
+    
+    
+  </div>
+</div>
+<hr style=" border: 0; height: 0; border-top: 1px solid rgba(0, 0, 0, 0.1); border-bottom: 1px solid rgba(255, 255, 255, 0.3);" />
+<div class="person-row">
+  <div id="efrolov" class="person-profile">
+
+  <img src="/assets/pictures/efrolov.jpg" class="author-avatar u-photo" alt="Evgeny Frolov" />
+    
+  <div class="author-info">
+    <div class="author-name">
+      <span class="p-name"><a href="http://localhost:4000/people/#efrolov">Evgeny Frolov</a>
+      <hr style=" border: 0; height: 0; border-top: 1px solid rgba(0, 0, 0, 0.1); border-bottom: 1px solid rgba(255, 255, 255, 0.3);" /></span>
+      <span>Researcher<br /></span>
+      <span>Skoltech</span>
+    </div>
+  </div><ul class="author-links"><li class="author-link">
+        <a class="u-url" rel="me" href="mailto:evgeny.frolov@skoltech.ru"><i class="fas fa-envelope fa-lg" title="Mail"></i></a>
+      </li></ul></div>
+  <div class="person-list">
+    
+    
+    <h3>Talks</h3>
+    
+    <p><a href="/2019/04/12/RecCon.html">Generalization of low rank approximation approach for hybrid recommender systems</a></p>
+    
+    <p><a href="/2018/12/12/Temporal_models_for_polyadic_events.html">Temporal Models for Polyadic Events</a></p>
+    
+    
+    
+    
+  </div>
+</div>
+<hr style=" border: 0; height: 0; border-top: 1px solid rgba(0, 0, 0, 0.1); border-bottom: 1px solid rgba(255, 255, 255, 0.3);" />
+<div class="person-row">
+  <div id="eponomarev" class="person-profile">
+
+  <img src="/assets/pictures/eponomarev.jpg" class="author-avatar u-photo" alt="Evgeny Ponomarev" />
+    
+  <div class="author-info">
+    <div class="author-name">
+      <span class="p-name"><a href="http://localhost:4000/people/#eponomarev">Evgeny Ponomarev</a>
+      <hr style=" border: 0; height: 0; border-top: 1px solid rgba(0, 0, 0, 0.1); border-bottom: 1px solid rgba(255, 255, 255, 0.3);" /></span>
+      <span>PhD student<br /></span>
+      <span>Skoltech</span>
+    </div>
+  </div><ul class="author-links"><li class="author-link">
+        <a class="u-url" rel="me" href="https://www.linkedin.com/in/evgps/"><i class="fas fa-envelope fa-lg" title="Mail"></i></a>
+      </li></ul></div>
+  <div class="person-list">
+    
+    
+    <h3>Talks</h3>
+    
+    <p><a href="/2019/04/17/RCNN.html">Faster R-CNN: code approach</a></p>
+    
+    
+    
+    
+  </div>
+</div>
+<hr style=" border: 0; height: 0; border-top: 1px solid rgba(0, 0, 0, 0.1); border-bottom: 1px solid rgba(255, 255, 255, 0.3);" />
+<div class="person-row">
+  <div id="ktikhonov" class="person-profile">
+
+  <img src="/assets/pictures/ktikhonov.jpg" class="author-avatar u-photo" alt="Konstantin Tikhonov" />
+    
+  <div class="author-info">
+    <div class="author-name">
+      <span class="p-name"><a href="http://localhost:4000/people/#ktikhonov">Konstantin Tikhonov</a>
+      <hr style=" border: 0; height: 0; border-top: 1px solid rgba(0, 0, 0, 0.1); border-bottom: 1px solid rgba(255, 255, 255, 0.3);" /></span>
+      <span>Researcher<br /></span>
+      <span>Landau Institute for Theoretical Physics</span>
+    </div>
+  </div><ul class="author-links"><li class="author-link">
+        <a class="u-url" rel="me" href="http://tikhonov.itp.ac.ru/"><i class="fas fa-envelope fa-lg" title="Mail"></i></a>
+      </li></ul></div>
+  <div class="person-list">
+    
+    
+    <h3>Talks</h3>
+    
+    <p><a href="/2019/03/27/Quantum_Annealing.html">Quantum annealing: machine learning perspective</a></p>
+    
+    
+    
+    
+  </div>
+</div>
+<hr style=" border: 0; height: 0; border-top: 1px solid rgba(0, 0, 0, 0.1); border-bottom: 1px solid rgba(255, 255, 255, 0.3);" />
+<div class="person-row">
+  <div id="tdaulbaev" class="person-profile">
+
+  <img src="/assets/pictures/tdaulbaev.jpg" class="author-avatar u-photo" alt="Talgat Daulbaev" />
+    
+  <div class="author-info">
+    <div class="author-name">
+      <span class="p-name"><a href="http://localhost:4000/people/#tdaulbaev">Talgat Daulbaev</a>
+      <hr style=" border: 0; height: 0; border-top: 1px solid rgba(0, 0, 0, 0.1); border-bottom: 1px solid rgba(255, 255, 255, 0.3);" /></span>
+      <span>PhD student<br /></span>
+      <span>Skoltech</span>
+    </div>
+  </div><ul class="author-links"><li class="author-link">
+        <a class="u-url" rel="me" href="mailto:t.daulbaev@skoltech.ru"><i class="fas fa-envelope fa-lg" title="Mail"></i></a>
+      </li></ul></div>
+  <div class="person-list">
+    
+    
+    <h3>Talks</h3>
+    
+    <p><a href="/2019/06/19/Flow.html">Normalizing Flows</a></p>
+    
+    <p><a href="/2019/04/11/NNOT.html">Recent Works on Optimal Transport</a></p>
+    
+    
+    
+    
+  </div>
+</div>
+<hr style=" border: 0; height: 0; border-top: 1px solid rgba(0, 0, 0, 0.1); border-bottom: 1px solid rgba(255, 255, 255, 0.3);" />
+<div class="person-row">
+  <div id="apetrovskaya" class="person-profile">
+
+  <img src="/assets/pictures/apetrovskaya.jpg" class="author-avatar u-photo" alt="Anna Petrovskaya" />
+    
+  <div class="author-info">
+    <div class="author-name">
+      <span class="p-name"><a href="http://localhost:4000/people/#apetrovskaya">Anna Petrovskaya</a>
+      <hr style=" border: 0; height: 0; border-top: 1px solid rgba(0, 0, 0, 0.1); border-bottom: 1px solid rgba(255, 255, 255, 0.3);" /></span>
+      <span>PhD student<br /></span>
+      <span>Skoltech</span>
+    </div>
+  </div><ul class="author-links"><li class="author-link">
+        <a class="u-url" rel="me" href="mailto:anna.petrovskaia@skoltech.ru"><i class="fas fa-envelope fa-lg" title="Mail"></i></a>
+      </li></ul></div>
+  <div class="person-list">
+    
+    
+    <h3>Talks</h3>
+    
+    <p><a href="/2019/04/10/Petroleum.html">MaxVol sampling for agricultural survey</a></p>
+    
+    
+    
+    
+  </div>
+</div>
+<hr style=" border: 0; height: 0; border-top: 1px solid rgba(0, 0, 0, 0.1); border-bottom: 1px solid rgba(255, 255, 255, 0.3);" />
+<div class="person-row">
+  <div id="dmerkulov" class="person-profile">
+
+  <img src="/assets/pictures/dmerkulov.jpg" class="author-avatar u-photo" alt="Daniil Merkulov" />
+    
+  <div class="author-info">
+    <div class="author-name">
+      <span class="p-name"><a href="http://localhost:4000/people/#dmerkulov">Daniil Merkulov</a>
+      <hr style=" border: 0; height: 0; border-top: 1px solid rgba(0, 0, 0, 0.1); border-bottom: 1px solid rgba(255, 255, 255, 0.3);" /></span>
+      <span>PhD student<br /></span>
+      <span>Skoltech</span>
+    </div>
+  </div><ul class="author-links"><li class="author-link">
+        <a class="u-url" rel="me" href="https://merkulov.top"><i class="fas fa-home fa-lg" title="Homepage"></i></a>
+      </li><li class="author-link">
+        <a class="u-url" rel="me" href="mailto:daniil.merkulov@skolkovotech.ru"><i class="fas fa-envelope fa-lg" title="Mail"></i></a>
+      </li><li class="author-link">
+        <a class="u-url" rel="me" href="https://scholar.google.com/citations?user=BkxI36gAAAAJ&amp;hl=en"><i class="ai ai-google-scholar-square fa-lg" title="Google Scholar"></i></a>
+      </li><li class="author-link">
+        <a class="u-url" rel="me" href="https://twitter.com/danya_merkulov"><i class="fab fa-twitter fa-lg" title="Twitter"></i></a>
+      </li></ul></div>
+  <div class="person-list">
+    
+    
+    <h3>Talks</h3>
+    
+    <p><a href="/2019/06/26/sgd_split.html">From splitting schemes for ODE to stochastic optimization</a></p>
+    
+    <p><a href="/2019/04/03/Mirror_Descent.html">Mirror Descent: from theory to practice</a></p>
+    
+    
+    
+    
+    <h3>Publications</h3>
+    <p><a href="/publications/sad_points/">Empirical study of extreme overfitting points of neural networks</a></p>
+    
+    
+  </div>
+</div>
+<hr style=" border: 0; height: 0; border-top: 1px solid rgba(0, 0, 0, 0.1); border-bottom: 1px solid rgba(255, 255, 255, 0.3);" />
+<div class="person-row">
+  <div id="sahmadiasl" class="person-profile">
+
+  <img src="/assets/pictures/sahmadiasl.jpg" class="author-avatar u-photo" alt="Salman Ahmadi-Asl" />
+    
+  <div class="author-info">
+    <div class="author-name">
+      <span class="p-name"><a href="http://localhost:4000/people/#sahmadiasl">Salman Ahmadi-Asl</a>
+      <hr style=" border: 0; height: 0; border-top: 1px solid rgba(0, 0, 0, 0.1); border-bottom: 1px solid rgba(255, 255, 255, 0.3);" /></span>
+      <span>Research Scientist<br /></span>
+      <span>Skoltech</span>
+    </div>
+  </div><ul class="author-links"><li class="author-link">
+        <a class="u-url" rel="me" href="mailto:s.asl@skoltech.ru"><i class="fas fa-envelope fa-lg" title="Mail"></i></a>
+      </li></ul></div>
+  <div class="person-list">
+    
+    
+    <h3>Talks</h3>
+    
+    <p><a href="/2019/12/04/CP_rand.html">Randomized Algorithms for Canonical Polyadic Decomposition</a></p>
+    
+    <p><a href="/2019/05/08/HOSVD.html">Fast new algorithms for computation of Higher Order SVD (HOSVD): Randomized algorithms</a></p>
+    
+    
+    
+    
+  </div>
+</div>
+<hr style=" border: 0; height: 0; border-top: 1px solid rgba(0, 0, 0, 0.1); border-bottom: 1px solid rgba(255, 255, 255, 0.3);" />
+<div class="person-row">
+  <div id="dsushnikova" class="person-profile">
+
+  <img src="/assets/pictures/dsushnikova.jpg" class="author-avatar u-photo" alt="Daria Sushnikova" />
+    
+  <div class="author-info">
+    <div class="author-name">
+      <span class="p-name"><a href="http://localhost:4000/people/#dsushnikova">Daria Sushnikova</a>
+      <hr style=" border: 0; height: 0; border-top: 1px solid rgba(0, 0, 0, 0.1); border-bottom: 1px solid rgba(255, 255, 255, 0.3);" /></span>
+      <span>Research Intern<br /></span>
+      <span>Skoltech</span>
+    </div>
+  </div><ul class="author-links"><li class="author-link">
+        <a class="u-url" rel="me" href="mailto:maranas.daemon@gmail.com"><i class="fas fa-envelope fa-lg" title="Mail"></i></a>
+      </li></ul></div>
+  <div class="person-list">
+    
+    
+    <h3>Talks</h3>
+    
+    <p><a href="/2019/05/16/H2ANN.html">Enhancement of artificial neural networks based on $H^2$ - matrices</a></p>
+    
+    
+    
+    
+  </div>
+</div>
+<hr style=" border: 0; height: 0; border-top: 1px solid rgba(0, 0, 0, 0.1); border-bottom: 1px solid rgba(255, 255, 255, 0.3);" />
+<div class="person-row">
+  <div id="govchinnikov" class="person-profile">
+
+  <img src="/assets/pictures/govchinnikov.png" class="author-avatar u-photo" alt="George Ovchinnikov" />
+    
+  <div class="author-info">
+    <div class="author-name">
+      <span class="p-name"><a href="http://localhost:4000/people/#govchinnikov">George Ovchinnikov</a>
+      <hr style=" border: 0; height: 0; border-top: 1px solid rgba(0, 0, 0, 0.1); border-bottom: 1px solid rgba(255, 255, 255, 0.3);" /></span>
+      <span>Research Scientist<br /></span>
+      <span>Skoltech</span>
+    </div>
+  </div><ul class="author-links"><li class="author-link">
+        <a class="u-url" rel="me" href="mailto:g.ovchinnikov@skoltech.ru"><i class="fas fa-envelope fa-lg" title="Mail"></i></a>
+      </li></ul></div>
+  <div class="person-list">
+    
+    
+    <h3>Talks</h3>
+    
+    <p><a href="/2019/05/22/5g.html">Versatile Enhancement in Dynamic Resource Optimization in 5G networks</a></p>
+    
+    
+    
+    
+  </div>
+</div>
+<hr style=" border: 0; height: 0; border-top: 1px solid rgba(0, 0, 0, 0.1); border-bottom: 1px solid rgba(255, 255, 255, 0.3);" />
+<div class="person-row">
+  <div id="akatrutsa" class="person-profile">
+
+  <img src="/assets/pictures/akatrutsa.jpg" class="author-avatar u-photo" alt="Alexandr Katrutsa" />
+    
+  <div class="author-info">
+    <div class="author-name">
+      <span class="p-name"><a href="http://localhost:4000/people/#akatrutsa">Alexandr Katrutsa</a>
+      <hr style=" border: 0; height: 0; border-top: 1px solid rgba(0, 0, 0, 0.1); border-bottom: 1px solid rgba(255, 255, 255, 0.3);" /></span>
+      <span>PhD student<br /></span>
+      <span>Skoltech</span>
+    </div>
+  </div><ul class="author-links"><li class="author-link">
+        <a class="u-url" rel="me" href="mailto:aleksandr.katrutsa@phystech.edu"><i class="fas fa-envelope fa-lg" title="Mail"></i></a>
+      </li></ul></div>
+  <div class="person-list">
+    
+    
+    <h3>Talks</h3>
+    
+    <p><a href="/2019/06/06/matrix_exp.html">Shift optimization for matrix exponential computing</a></p>
+    
+    
+    
+    
+  </div>
+</div>
+<hr style=" border: 0; height: 0; border-top: 1px solid rgba(0, 0, 0, 0.1); border-bottom: 1px solid rgba(255, 255, 255, 0.3);" />
+<div class="person-row">
+  <div id="dfokina" class="person-profile">
+
+  <img src="/assets/pictures/dfokina.jpg" class="author-avatar u-photo" alt="Daria Fokina" />
+    
+  <div class="author-info">
+    <div class="author-name">
+      <span class="p-name"><a href="http://localhost:4000/people/#dfokina">Daria Fokina</a>
+      <hr style=" border: 0; height: 0; border-top: 1px solid rgba(0, 0, 0, 0.1); border-bottom: 1px solid rgba(255, 255, 255, 0.3);" /></span>
+      <span>Research Intern<br /></span>
+      <span>Skoltech</span>
+    </div>
+  </div><ul class="author-links"><li class="author-link">
+        <a class="u-url" rel="me" href="mailto:aleksandr.katrutsa@phystech.edu"><i class="fas fa-envelope fa-lg" title="Mail"></i></a>
+      </li></ul></div>
+  <div class="person-list">
+    
+    
+    <h3>Talks</h3>
+    
+    <p><a href="/2019/07/03/microstructure.html">Microstructure Synthesis via Neural Networks</a></p>
+    
+    
+    
+    
+  </div>
+</div>
+<hr style=" border: 0; height: 0; border-top: 1px solid rgba(0, 0, 0, 0.1); border-bottom: 1px solid rgba(255, 255, 255, 0.3);" />
+<div class="person-row">
+  <div id="vpimanov" class="person-profile">
+
+  <img src="/assets/pictures/vpimanov.jpg" class="author-avatar u-photo" alt="Vlad Pimanov" />
+    
+  <div class="author-info">
+    <div class="author-name">
+      <span class="p-name"><a href="http://localhost:4000/people/#vpimanov">Vlad Pimanov</a>
+      <hr style=" border: 0; height: 0; border-top: 1px solid rgba(0, 0, 0, 0.1); border-bottom: 1px solid rgba(255, 255, 255, 0.3);" /></span>
+      <span>Research Intern<br /></span>
+      <span>Skoltech</span>
+    </div>
+  </div><ul class="author-links"><li class="author-link">
+        <a class="u-url" rel="me" href="mailto:vladislav.pimanov@skoltech.ru"><i class="fas fa-envelope fa-lg" title="Mail"></i></a>
+      </li></ul></div>
+  <div class="person-list">
+    
+    
+    <h3>Talks</h3>
+    
+    <p><a href="/2019/07/10/acoustics.html">Efficient methods for elliptic problems in heterogeneous media with applications</a></p>
+    
+    
+    
+    
+  </div>
+</div>
+<hr style=" border: 0; height: 0; border-top: 1px solid rgba(0, 0, 0, 0.1); border-bottom: 1px solid rgba(255, 255, 255, 0.3);" />
+<div class="person-row">
+  <div id="sdivakov" class="person-profile">
+
+  <img src="/assets/pictures/sdivakov.jpg" class="author-avatar u-photo" alt="Sergey Divakov" />
+    
+  <div class="author-info">
+    <div class="author-name">
+      <span class="p-name"><a href="http://localhost:4000/people/#sdivakov">Sergey Divakov</a>
+      <hr style=" border: 0; height: 0; border-top: 1px solid rgba(0, 0, 0, 0.1); border-bottom: 1px solid rgba(255, 255, 255, 0.3);" /></span>
+      <span>MSc graduate<br /></span>
+      <span>Skoltech</span>
+    </div>
+  </div><ul class="author-links"><li class="author-link">
+        <a class="u-url" rel="me" href="mailto:sergei.divakov@skoltech.ru"><i class="fas fa-envelope fa-lg" title="Mail"></i></a>
+      </li></ul></div>
+  <div class="person-list">
+    
+    
+    <h3>Talks</h3>
+    
+    <p><a href="/2019/07/17/pointscloud.html">Adversarial point set registration</a></p>
+    
+    
+    
+    
+  </div>
+</div>
+<hr style=" border: 0; height: 0; border-top: 1px solid rgba(0, 0, 0, 0.1); border-bottom: 1px solid rgba(255, 255, 255, 0.3);" />
+<div class="person-row">
+  <div id="smatveev" class="person-profile">
+
+  <img src="/assets/pictures/smatveev.jpg" class="author-avatar u-photo" alt="Sergey Matveev" />
+    
+  <div class="author-info">
+    <div class="author-name">
+      <span class="p-name"><a href="http://localhost:4000/people/#smatveev">Sergey Matveev</a>
+      <hr style=" border: 0; height: 0; border-top: 1px solid rgba(0, 0, 0, 0.1); border-bottom: 1px solid rgba(255, 255, 255, 0.3);" /></span>
+      <span>Researcher<br /></span>
+      <span>Skoltech</span>
+    </div>
+  </div><ul class="author-links"><li class="author-link">
+        <a class="u-url" rel="me" href="mailto:s.matveev@skoltech.ru"><i class="fas fa-envelope fa-lg" title="Mail"></i></a>
+      </li></ul></div>
+  <div class="person-list">
+    
+    
+    <h3>Talks</h3>
+    
+    <p><a href="/2019/07/24/compchemistry.html">Some thoughts about modelling aggregation</a></p>
+    
+    
+    
+    
+  </div>
+</div>
+<hr style=" border: 0; height: 0; border-top: 1px solid rgba(0, 0, 0, 0.1); border-bottom: 1px solid rgba(255, 255, 255, 0.3);" />
+<div class="person-row">
+  <div id="achertkov" class="person-profile">
+
+  <img src="/assets/pictures/achertkov.jpg" class="author-avatar u-photo" alt="Andrei Chertkov" />
+    
+  <div class="author-info">
+    <div class="author-name">
+      <span class="p-name"><a href="http://localhost:4000/people/#achertkov">Andrei Chertkov</a>
+      <hr style=" border: 0; height: 0; border-top: 1px solid rgba(0, 0, 0, 0.1); border-bottom: 1px solid rgba(255, 255, 255, 0.3);" /></span>
+      <span>PhD student<br /></span>
+      <span>Skoltech</span>
+    </div>
+  </div><ul class="author-links"><li class="author-link">
+        <a class="u-url" rel="me" href="mailto:andrei.chertkov@skolkovotech.ru"><i class="fas fa-envelope fa-lg" title="Mail"></i></a>
+      </li></ul></div>
+  <div class="person-list">
+    
+    
+    <h3>Talks</h3>
+    
+    <p><a href="/2019/07/31/fokker_cross.html">Cross approximation of the solution of the Fokker-Planck equation</a></p>
+    
+    
+    
+    
+  </div>
+</div>
+<hr style=" border: 0; height: 0; border-top: 1px solid rgba(0, 0, 0, 0.1); border-bottom: 1px solid rgba(255, 255, 255, 0.3);" />
+<div class="person-row">
+  <div id="imatvienko" class="person-profile">
+
+  <img src="/assets/pictures/imatvienko.jpg" class="author-avatar u-photo" alt="Ivan Matvienko" />
+    
+  <div class="author-info">
+    <div class="author-name">
+      <span class="p-name"><a href="http://localhost:4000/people/#imatvienko">Ivan Matvienko</a>
+      <hr style=" border: 0; height: 0; border-top: 1px solid rgba(0, 0, 0, 0.1); border-bottom: 1px solid rgba(255, 255, 255, 0.3);" /></span>
+      <span>MSc student<br /></span>
+      <span>Skoltech</span>
+    </div>
+  </div><ul class="author-links"><li class="author-link">
+        <a class="u-url" rel="me" href="mailto:ivan.matvienko@skoltech.ru"><i class="fas fa-envelope fa-lg" title="Mail"></i></a>
+      </li></ul></div>
+  <div class="person-list">
+    
+    
+    <h3>Talks</h3>
+    
+    <p><a href="/2019/10/16/earth.html">Intro to Google Earth Engine and Crop Classification based on Multispectral Satellite Images</a></p>
+    
+    
+    
+    
+  </div>
+</div>
+<hr style=" border: 0; height: 0; border-top: 1px solid rgba(0, 0, 0, 0.1); border-bottom: 1px solid rgba(255, 255, 255, 0.3);" />
+<div class="person-row">
+  <div id="ygabuev" class="person-profile">
+
+  <img src="/assets/pictures/ygabuev.jpg" class="author-avatar u-photo" alt="Yuriy Gabuev" />
+    
+  <div class="author-info">
+    <div class="author-name">
+      <span class="p-name"><a href="http://localhost:4000/people/#ygabuev">Yuriy Gabuev</a>
+      <hr style=" border: 0; height: 0; border-top: 1px solid rgba(0, 0, 0, 0.1); border-bottom: 1px solid rgba(255, 255, 255, 0.3);" /></span>
+      <span>MSc student<br /></span>
+      <span>Skoltech</span>
+    </div>
+  </div><ul class="author-links"><li class="author-link">
+        <a class="u-url" rel="me" href="mailto:yuriy.gabuev@skoltech.ru"><i class="fas fa-envelope fa-lg" title="Mail"></i></a>
+      </li></ul></div>
+  <div class="person-list">
+    
+    
+    <h3>Talks</h3>
+    
+    <p><a href="/2019/10/09/selfie.html">Selfie: Self-supervised Pretraining for Image Embedding</a></p>
+    
+    
+    
+    
+  </div>
+</div>
+<hr style=" border: 0; height: 0; border-top: 1px solid rgba(0, 0, 0, 0.1); border-bottom: 1px solid rgba(255, 255, 255, 0.3);" />
+<div class="person-row">
+  <div id="jgusak" class="person-profile">
+
+  <img src="/assets/pictures/jgusak.jpg" class="author-avatar u-photo" alt="Julia Gusak" />
+    
+  <div class="author-info">
+    <div class="author-name">
+      <span class="p-name"><a href="http://localhost:4000/people/#jgusak">Julia Gusak</a>
+      <hr style=" border: 0; height: 0; border-top: 1px solid rgba(0, 0, 0, 0.1); border-bottom: 1px solid rgba(255, 255, 255, 0.3);" /></span>
+      <span>Research Scientist<br /></span>
+      <span>Skoltech</span>
+    </div>
+  </div><ul class="author-links"><li class="author-link">
+        <a class="u-url" rel="me" href="mailto:y.gusak@skoltech.ru"><i class="fas fa-envelope fa-lg" title="Mail"></i></a>
+      </li></ul></div>
+  <div class="person-list">
+    
+    
+    <h3>Talks</h3>
+    
+    <p><a href="/2019/11/20/ICCV-report.html">Thoughts from ICCV 2019</a></p>
+    
+    <p><a href="/2019/10/23/music_translation.html">Music &amp; Voice translation</a></p>
+    
+    
+    
+    
+  </div>
+</div>
+<hr style=" border: 0; height: 0; border-top: 1px solid rgba(0, 0, 0, 0.1); border-bottom: 1px solid rgba(255, 255, 255, 0.3);" />
+<div class="person-row">
+  <div id="ivorona" class="person-profile">
+
+  <img src="/assets/pictures/ivorona.jpg" class="author-avatar u-photo" alt="Igor Vorona" />
+    
+  <div class="author-info">
+    <div class="author-name">
+      <span class="p-name"><a href="http://localhost:4000/people/#ivorona">Igor Vorona</a>
+      <hr style=" border: 0; height: 0; border-top: 1px solid rgba(0, 0, 0, 0.1); border-bottom: 1px solid rgba(255, 255, 255, 0.3);" /></span>
+      <span>PhD Student<br /></span>
+      <span>Skoltech</span>
+    </div>
+  </div><ul class="author-links"><li class="author-link">
+        <a class="u-url" rel="me" href="mailto:igor.vorona@skoltech.ru"><i class="fas fa-envelope fa-lg" title="Mail"></i></a>
+      </li></ul></div>
+  <div class="person-list">
+    
+    
+    <h3>Talks</h3>
+    
+    <p><a href="/2019/11/01/ml_graph.html">Modern Machine Learning on Graphs</a></p>
+    
+    
+    
+    
+  </div>
+</div>
+<hr style=" border: 0; height: 0; border-top: 1px solid rgba(0, 0, 0, 0.1); border-bottom: 1px solid rgba(255, 255, 255, 0.3);" />
+<div class="person-row">
+  <div id="achashchin" class="person-profile">
+
+  <img src="/assets/pictures/achashchin.jpg" class="author-avatar u-photo" alt="Artem Chashchin" />
+    
+  <div class="author-info">
+    <div class="author-name">
+      <span class="p-name"><a href="http://localhost:4000/people/#achashchin">Artem Chashchin</a>
+      <hr style=" border: 0; height: 0; border-top: 1px solid rgba(0, 0, 0, 0.1); border-bottom: 1px solid rgba(255, 255, 255, 0.3);" /></span>
+      <span>Research Intern<br /></span>
+      <span>Skoltech</span>
+    </div>
+  </div><ul class="author-links"><li class="author-link">
+        <a class="u-url" rel="me" href="mailto:artem.chashchin@skolkovotech.ru"><i class="fas fa-envelope fa-lg" title="Mail"></i></a>
+      </li></ul></div>
+  <div class="person-list">
+    
+    
+    <h3>Talks</h3>
+    
+    <p><a href="/2019/11/13/ode_neural.html">Applications of neural networks in solving differential equations</a></p>
+    
+    
+    
+    
+  </div>
+</div>
+<hr style=" border: 0; height: 0; border-top: 1px solid rgba(0, 0, 0, 0.1); border-bottom: 1px solid rgba(255, 255, 255, 0.3);" />
+<div class="person-row">
+  <div id="lmirvakhabova" class="person-profile">
+
+  <img src="/assets/pictures/lmirvakhabova.jpg" class="author-avatar u-photo" alt="Leyla Mirvakhabova" />
+    
+  <div class="author-info">
+    <div class="author-name">
+      <span class="p-name"><a href="http://localhost:4000/people/#lmirvakhabova">Leyla Mirvakhabova</a>
+      <hr style=" border: 0; height: 0; border-top: 1px solid rgba(0, 0, 0, 0.1); border-bottom: 1px solid rgba(255, 255, 255, 0.3);" /></span>
+      <span>PhD student<br /></span>
+      <span>Skoltech</span>
+    </div>
+  </div><ul class="author-links"><li class="author-link">
+        <a class="u-url" rel="me" href="mailto:leyla.mirvakhabova@skoltech.ru"><i class="fas fa-envelope fa-lg" title="Mail"></i></a>
+      </li></ul></div>
+  <div class="person-list">
+    
+    
+    <h3>Talks</h3>
+    
+    <p><a href="/2019/11/27/Hyperbolic.html">Hyperbolic image embeddings</a></p>
+    
+    
+    
+    
+  </div>
+</div>
+:ET

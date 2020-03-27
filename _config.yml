@@ -9,7 +9,7 @@ collections:
   posts:
     permalink: '/posts/:title/'
 title: Agro-digital Group
-url: mishagrol.github.io
+url: "https://mishagrol.github.io/"
 baseurl: /
 palette: green
 palettes:

@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "MikhailGasanov"
+title                    : "Mikhail Gasanov"
 title_separator          : "-"
 name                     : &name "Mikhail Gasanov"
 description              : &description "Skoltech"
@@ -86,7 +86,7 @@ author:
   location         : "Skolkovo, Moscow"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Mikhail_Gasanov4"
   uri              :

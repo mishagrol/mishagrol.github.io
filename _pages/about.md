@@ -7,13 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Field research in Moscow region (June, 2020)
+Field research in Moscow region (June, 2019)
 ![My potato life🤷‍♀️](/images/penetrolog.jpg)
 
 ## Map of Talks
 [A map of every location I've given a talk](https://mishagrol.github.io/talkmap.html).
 
-A data-driven personal website
+Machine Learning and Big Data Russian-Indian School in Sirius, Sochi (December, 2019)
+![Sirius](images/sirius.jpg)
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 

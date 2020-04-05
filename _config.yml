@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "MikhailGasanov"
 title_separator          : "-"
 name                     : &name "Mikhail Gasanov"
-description              : &description "personal description"
+description              : &description "Skoltech"
 url                      : https://mishagrol.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mishagrol/mishagrol.github.io"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Mikhail Gasanov"
   avatar           : "MikhailGasanov.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "PhD student in CDISE Skoltech"
   location         : "Skolkovo, Moscow"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Mikhail_Gasanov4"
   uri              :
   bitbucket        :
   codepen          :
@@ -99,17 +99,17 @@ author:
   github           : "mishagrol"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "misha.grol"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :

@@ -12,7 +12,14 @@ Field research in Moscow region (June, 2019)
 
 ## Map of Talks
 [A map of every location I've given a talk](https://mishagrol.github.io/talkmap.html).
+======
 
+{% if site.talkmap_link == true %}
+
+<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
+
+{% endif %}
+## Sochi, Sirius
 Machine Learning and Big Data Russian-Indian School in Sirius, Sochi (December, 2019)
 ![Sirius](images/sirius.jpg)
 ======

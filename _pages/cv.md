@@ -11,30 +11,49 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in GitHub, Lomonosov Moscow State University, Faculty of Soil Sciences, 2013 - 2017
+* M.S. in Jekyll, Lomonosov Moscow State University, Faculty of Soil Sciences, 2017-2019
+* Ph.D in Skoltecg, CDISE, Moscow, 2023 (expected)
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer-Fall 2016: Research Assistant
+  * Laboratory of ecotoxicology, Department of Soil Science, MSU
+  * Duties included: analytical chemistry, bioassay
+  * Supervisor: [Pukalchik Maria](https://scholar.google.ru/citations?user=KoF5RkAAAAAJ&hl=en)
+  * Project title: Variation of biological properties under the influence of humic substances and in conditions of model experiments with sod-podzolic soils contaminated with heavy metals
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
+* Fall-Winter 2018: Research Assistant
+  * Laboratory of chromatographic and mass spectrometric methods of water and soil analysis, Moscow State University 
+  * Duties included: Mass-spectrometry, HPLC, GC-MS, ASE DIONIX
+  * Supervisor: Zavgorodnyaya Y.
+  * Project title: Determination of neonicotinoid pesticide residues in soil and water with solid phase extraction and HPLC-Q-TOF
   
+Additional education
+======
+* Mass spectrometry - semester course (Fall, 2018)
+* Python Programming - online course (2017)
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: 
+  * Python(Numpy, Pandas, Plotly), R(ggplot2)
+  * Bash, Jekyll, HTML
+  * Docker, Singularity
+  * Slurm, HPC
+* Soil chemistry:
+  * Determination of organic pollutants
+  * Bioavailability of persistent organic pollutants in soils
+  * Heavy metall extraction
+* Analytical chemistry:
+  * Gas chromatography, HPLC, 
+  * Mass spectrometry, ICP-MS, Q-TOF
+  * UV/Vis-spectroscopy, Solid-phase extraction (SPE)
+* Design: 
+  * Adobe Illustrator, Photoshop
+  * Web: Tilda, WIX 
+
 
 Publications
 ======
@@ -56,4 +75,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 10 different ryver teams

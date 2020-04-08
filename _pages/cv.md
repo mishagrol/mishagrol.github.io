@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, Lomonosov Moscow State University, Faculty of Soil Sciences, 2013 - 2017
-* M.S. in Jekyll, Lomonosov Moscow State University, Faculty of Soil Sciences, 2017-2019
-* Ph.D in Skoltecg, CDISE, Moscow, 2023 (expected)
+* B.S. in Environmental Science, Lomonosov Moscow State University, Faculty of Soil Sciences, 2013 - 2017
+* M.S. in Environmental Science, Lomonosov Moscow State University, Faculty of Soil Sciences, 2017-2019
+* Ph.D in Data Science, Skoltech, CDISE, Moscow, 2023 (expected)
 
 Research experience
 ======

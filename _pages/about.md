@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello! I'm Mikhail, I do research in computer science and precision agricluture 🚜! PhD student in Skoltech 💡"
+title: "Hello! I'm Mikhail, I do research in computer science and precision agricluture 🚜 PhD student in Skoltech 💡"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-#### Field research in Moscow region (June, 2019)
+#### My potato life
+
+Field research in Moscow region (June, 2019)
+
 
 ![My potato life🤷‍♀️](/images/penetrolog.jpg)
 

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-#### My potato life
+## My potato life
 
 Field research in Moscow region (June, 2019)
 

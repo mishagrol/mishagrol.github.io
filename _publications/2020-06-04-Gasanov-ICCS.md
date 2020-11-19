@@ -2,7 +2,7 @@
 title: "Sensitivity Analysis of Soil Parameters in Crop Model Supported with High-Throughput Computing"
 collection: publications
 permalink: /publication/2020-06-04-Gasanov-ICCS
-excerpt: 'In this research, we perform a sensitivity analysis of soil parameters which play an essential role in plant growth for the MONICA agro-ecosystem model. We utilize Sobol' sensitivity indices to estimate the importance of main soil parameters for several crop cultures (soybeans, sugar beet and spring barley).
+excerpt: 'In this research, we perform a sensitivity analysis of soil parameters which play an essential role in plant growth for the MONICA agro-ecosystem model. We utilize Sobol sensitivity indices to estimate the importance of main soil parameters for several crop cultures (soybeans, sugar beet and spring barley).
 '
 date: 2020-06-04
 venue: 'Paper presented at the ICCS 2020'

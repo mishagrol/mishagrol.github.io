@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-====
-Field research in Moscow region (June, 2019)
+
+#### Field research in Moscow region (June, 2019)
 
 ![My potato life🤷‍♀️](/images/penetrolog.jpg)
 

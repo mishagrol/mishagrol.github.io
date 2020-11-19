@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: "Some cool stories"
+title: "Hello! I'm Mikhail, I do research in computer science and precision agricluture 🚜! PhD student in Skoltech 💡"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+====
 Field research in Moscow region (June, 2019)
 
 ![My potato life🤷‍♀️](/images/penetrolog.jpg)

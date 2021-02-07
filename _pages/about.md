@@ -27,7 +27,7 @@ High-throughput computing allows us to speed up the computations by more than th
 
 
 Heatmap shows how the variability in soil parameters affects the yield in the crop simulation model
-![Soil_layers](images/Heatmap_ST_Sunset_review.eps)
+![Soil_layers](images/Heatmap_ST_Sunset_review.png)
 
 Poster presentation at SETAC YES'20 in Ghent, Belgium
 

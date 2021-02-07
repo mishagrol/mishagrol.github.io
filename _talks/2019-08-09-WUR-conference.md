@@ -4,7 +4,7 @@ collection: talks
 type: "Conference proceedings talk"
 permalink: /talks/2019-08-09-WUR-conference
 venue: "WUR"
-date: 2014-03-01
+date: 2019-08-09
 location: "Wageningen, Netherlands"
 ---
 

@@ -4,8 +4,8 @@ date: 2021-09-11
 permalink: /posts/2021/09/jupyter_plugins/
 tags:
   - jupyter
-  - category1
-  - category2
+  - nbextensions
+  - python
 ---
 
 ## Пакет для установки плагинов в Jupyter
@@ -26,7 +26,8 @@ tags:
 
 При новом запуске Jupyter у вас появистя вкладка `nbextensions` в меню Jupyter
 
-![nbextensions](/images/nbextensions.png)
+
+<br/><img src='/images/nbextensions.png'>
 
 Список полезных плагинов:
 

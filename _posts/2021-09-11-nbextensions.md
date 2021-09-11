@@ -9,7 +9,6 @@ tags:
 ---
 
 ## Пакет для установки плагинов в Jupyter
-====
 
 Репозиторий:  [jupyter_contrib_nbextensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions)
 
@@ -27,7 +26,7 @@ tags:
 
 При новом запуске Jupyter у вас появистя вкладка `nbextensions` в меню Jupyter
 
-![nbextensions](../images/nbextensions.png)
+[nbextensions](../images/nbextensions.png)
 
 Список полезных плагинов:
 

@@ -26,7 +26,7 @@ tags:
 
 При новом запуске Jupyter у вас появистя вкладка `nbextensions` в меню Jupyter
 
-[nbextensions](../images/nbextensions.png)
+[nbextensions](/images/nbextensions.png)
 
 Список полезных плагинов:
 

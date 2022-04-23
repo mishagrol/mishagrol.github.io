@@ -1,7 +1,7 @@
 ---
 title: "Effect of Lignohumate on Soil Biological Activity on the Bali Island, Indonesia"
 collection: publications
-permalink: /publication/2020-05-28_Lignohumate
+permalink: /publication/2020-05-01-Lignohumate
 excerpt: 'Interest in studying the effect of commercial humic products (HPs) on the biological activity of soils is dictated by the environmental safety of their use (HPs are produced from natural raw materials), low market value, and high efficiency.'
 date: 2020-05-28
 venue: 'Paper in Eurasian Soil Science'

@@ -1,9 +1,9 @@
 ---
 title: "A New Multi-objective Approach to Optimize Irrigation Using a Crop Simulation Model and Weather History"
 collection: publications
-permalink: /publication/2021-06-16-Multi-Objective-Irrigation
+permalink: /publication/2021-06-06-Multi-Objective-Irrigation
 excerpt: 'Optimization of water consumption in agriculture is necessary to preserve freshwater reserves and reduce the environment’s burden.'
-date: 2021-06-16
+date: 2021-06-06
 venue: 'Paper presented at the ICCS 2021'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-030-77970-2_7'
 citation: 'Gasanov M., et al, 2021'
